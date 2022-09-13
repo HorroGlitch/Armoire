@@ -6,3 +6,5 @@ Les enfants du dossier codelab sont:
 - CAPTURE_D_ECRAN_1
 - index.html
 - presentation.txt
+
+.
