@@ -7,4 +7,4 @@ Les enfants du dossier codelab sont:
 - index.html
 - presentation.txt
 
-.
+Bonjour tout le monde
